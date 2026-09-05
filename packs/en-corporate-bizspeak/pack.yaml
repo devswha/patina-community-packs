@@ -1,0 +1,10 @@
+name: en-corporate-bizspeak
+version: 1.0.0
+language: en
+patterns:
+  - en-community-corporate-bizspeak.md
+compatibility:
+  min: 8.2.0
+  maxExclusive: 9.0.0
+author: devswha
+license: MIT
